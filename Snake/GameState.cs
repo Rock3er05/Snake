@@ -84,7 +84,7 @@ namespace Snake
         }
 
         private void AddHead(Position pos)
-        {
+        { //hello 
         
         }
     }
